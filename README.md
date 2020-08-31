@@ -1,1 +1,1 @@
-# postgresql-scripts
+# PostgreSQL utilities & scripts
