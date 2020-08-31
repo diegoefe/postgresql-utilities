@@ -13,3 +13,4 @@ work_mem = 128MB
 ```
 
 1. Restart the server
+1. [Sample postgresql.conf](postgresql.conf) for version 12.4
